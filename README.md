@@ -29,11 +29,11 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 <table width="990">
 <tr>
 <td width="330" valign="top">
-<a href="https://hiyaapatell.com/#project/paquet"><strong>📦 Paquet</strong></a><br/>
+<a href="https://www.behance.net/gallery/195126017/Paquet-Packaging-App"><strong>📦 Paquet</strong></a><br/>
 <sub>AR · Product Design</sub>
 </td>
 <td width="330" valign="top">
-<a href="https://hiyaapatell.com/#project/massart"><strong>🎓 MassArt</strong></a><br/>
+<a href="https://www.behance.net/gallery/251631803/MassArt-MDes-Service-Design"><strong>🎓 MassArt</strong></a><br/>
 <sub>Service Design · UX Research</sub>
 </td>
 <td width="330" valign="top">
@@ -43,15 +43,15 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 </tr>
 <tr>
 <td width="330" valign="top">
-<a href="https://hiyaapatell.com/#project/lepanthere"><strong>🐆 Le Panthère</strong></a><br/>
+<a href="https://www.behance.net/gallery/224989343/Panthere-Website-Redesign"><strong>🐆 Le Panthère</strong></a><br/>
 <sub>Website Redesign · UI/UX</sub>
 </td>
 <td width="330" valign="top">
-<a href="https://hiyaapatell.com/#project/synesthesia"><strong>🎨 Synesthesia</strong></a><br/>
+<a href="https://www.behance.net/gallery/242654747/Synesthesia-App-Design"><strong>🎨 Synesthesia</strong></a><br/>
 <sub>Creative Tools · Interaction</sub>
 </td>
 <td width="330" valign="top">
-<a href="https://hiyaapatell.com"><strong>💻 Portfolio Website</strong></a><br/>
+<a href="https://devpatel122003.com"><strong>💻 Portfolio Website</strong></a><br/>
 <sub>UI/UX · Development</sub>
 </td>
 </tr>
