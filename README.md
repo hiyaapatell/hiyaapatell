@@ -28,45 +28,31 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 
 <table width="100%">
 <tr>
-<td width="500" valign="top">
-<a href="https://hiyaapatell.com"><strong>📦 Paquet</strong></a><br/>
-<sub>AR Packaging · Product Design</sub>
+<td width="33%" valign="top">
+<a href="https://hiyaapatell.com/#project/paquet"><strong>📦 Paquet</strong></a><br/>
+<sub>AR · Product Design</sub>
 </td>
-<td width="500" valign="top">
-<a href="https://hiyaapatell.com"><strong>🎓 MassArt Service Design</strong></a><br/>
-<sub>Student Journey · Service Design</sub>
+<td width="33%" valign="top">
+<a href="https://hiyaapatell.com/#project/massart"><strong>🎓 MassArt</strong></a><br/>
+<sub>Service Design · UX Research</sub>
 </td>
-<td width="500" valign="top">
+<td width="33%" valign="top">
 <a href="https://hiyaapatell.com/#project/hiddenboston"><strong>🏙️ Hidden Boston</strong></a><br/>
-<sub>City Discovery · UI/UX</sub>
+<sub>UI/UX · Development</sub>
 </td>
 </tr>
 <tr>
-<td width="500" valign="top">
-<a href="https://hiyaapatell.com"><strong>🐆 Le Panthère</strong></a><br/>
-<sub>Website Redesign · UX</sub>
+<td width="33%" valign="top">
+<a href="https://hiyaapatell.com/#project/lepanthere"><strong>🐆 Le Panthère</strong></a><br/>
+<sub>Website Redesign · UI/UX</sub>
 </td>
-<td width="500" valign="top">
-<a href="https://hiyaapatell.com"><strong>🎨 Synesthesia</strong></a><br/>
-<sub>Creativity App · UI/UX</sub>
+<td width="33%" valign="top">
+<a href="https://hiyaapatell.com/#project/synesthesia"><strong>🎨 Synesthesia</strong></a><br/>
+<sub>Creative Tools · Interaction</sub>
 </td>
-<td width="500" valign="top">
-<a href="https://hiyaapatell.com"><strong>📐 Angle App</strong></a><br/>
-<sub>Shopping Experience · UI/UX</sub>
-</td>
-</tr>
-<tr>
-<td width="500" valign="top">
-<a href="https://github.com/hiyaapatell/hiyapatel.portfolio"><strong>🏎️ Portfolio Website</strong></a><br/>
-<sub>F1-Inspired Portfolio</sub>
-</td>
-<td width="500" valign="top">
-<a href="https://github.com/hiyaapatell/between.nyc"><strong>🗺️ BETWEEN.NYC</strong></a><br/>
-<sub>Interactive NYC Exploration</sub>
-</td>
-<td width="500" valign="top">
-<a href="https://github.com/hiyaapatell/citypulse"><strong>🌆 CityPulse</strong></a><br/>
-<sub>City Discovery Web App</sub>
+<td width="33%" valign="top">
+<a href="https://hiyaapatell.com"><strong>💻 Portfolio Website</strong></a><br/>
+<sub>UI/UX · Development</sub>
 </td>
 </tr>
 </table>
