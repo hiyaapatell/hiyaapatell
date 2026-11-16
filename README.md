@@ -98,11 +98,25 @@ I’m interested in the moments where *user needs*, *systems*, and *emerging tec
 **Design & prototyping**
 
 ![Figma](https://img.shields.io/badge/Figma-242933?style=flat-square&logo=figma&logoColor=F24E1E)
-![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-242933?style=flat-square&logo=adobecreativecloud&logoColor=FF0000)
+![FigJam](https://img.shields.io/badge/FigJam-242933?style=flat-square&logo=figma&logoColor=F24E1E)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-242933?style=flat-square&logo=adobecreativecloud&logoColor=FF0000)
+![Framer](https://img.shields.io/badge/Framer-242933?style=flat-square&logo=framer&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-242933?style=flat-square&logo=canva&logoColor=00C4CC)
 
-**Methods**
+**Development & productivity**
 
-`User Research` · `Service Design` · `Interaction Design` · `Systems Thinking` · `Wireframing` · `Prototyping` · `Usability Testing` · `Design Strategy`
+![HTML](https://img.shields.io/badge/HTML-242933?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-242933?style=flat-square&logo=css&logoColor=1572B6)
+![Python](https://img.shields.io/badge/Python-242933?style=flat-square&logo=python&logoColor=3776AB)
+![Notion](https://img.shields.io/badge/Notion-242933?style=flat-square&logo=notion&logoColor=white)
+
+**Design skills**
+
+`Product Design` · `UI/UX` · `Interaction Design` · `Responsive Design` · `Information Architecture` · `User Flows` · `Wireframing` · `Prototyping` · `Design Systems`
+
+**Research methods**
+
+`User Interviews` · `Usability Testing` · `Competitive Analysis` · `Journey Mapping` · `Persona Development`
 
 **Currently exploring**
 
