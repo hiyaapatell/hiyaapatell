@@ -30,56 +30,54 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 RECALL
-**AI × Human behavior × Product thinking**
+### 🏎️ [hiyapatel.portfolio](https://github.com/hiyaapatell/hiyapatel.portfolio)
 
-What happens to the intentions behind everything we save? Exploring a human-centered product concept that reconnects digital information with its original purpose and helps turn it into action.
+F1 theme portfolio website
 
-<sub>Research · UX Strategy · AI Product Concept</sub>
+<sub>JavaScript</sub>
+
+[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/hiyapatel.portfolio)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ [BETWEEN.NYC](https://github.com/hiyaapatell/between.nyc)
-**Interactive maps × Urban discovery**
+### 🏙️ [hiddenboston](https://github.com/hiyaapatell/hiddenboston)
 
-Exploring a city through the spaces in between, with interactive maps, layered navigation, and place-based storytelling.
+Discover Boston's hidden gems through an interactive website.
 
-<sub>Interaction Design · Creative Development · Prototyping</sub>
+<sub>HTML</sub>
 
-[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/between.nyc)
+[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/hiddenboston)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ [HIDDEN BOSTON](https://github.com/hiyaapatell/hiddenboston)
-**Discovery × Digital experience**
+### 🗺️ [between.nyc](https://github.com/hiyaapatell/between.nyc)
 
-An exploration of how a city can be experienced through a thoughtfully designed digital interface.
+An interactive NYC exploration website featuring colorful maps, walking routes, and hidden discoveries that reveal the stories, architecture, and overlooked details between destinations.
 
-<sub>UI/UX · Web Experience · Visual Design</sub>
+<sub>HTML</sub>
 
-[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/hiddenboston)
+[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/between.nyc)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏎️ [MY PORTFOLIO](https://hiyaapatell.com)
-**Formula 1 × Digital storytelling**
+### 🌆 [citypulse](https://github.com/hiyaapatell/citypulse)
 
-A personal design playground shaped by the visual energy of Formula 1, combining distinctive typography, motion, and interactive storytelling.
+CityPulse is a responsive city discovery web app that helps users discover local events, places, activities, and city experiences in one simple interface.
 
-<sub>Visual Design · Frontend · Creative Direction</sub>
+<sub>HTML</sub>
 
-[**LIVE SITE ↗**](https://hiyaapatell.com) · [**SOURCE ↗**](https://github.com/hiyaapatell/hiyapatel.portfolio)
+[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/citypulse)
 
 </td>
 </tr>
 </table>
 
-<p align="right"><a href="https://hiyaapatell.com">MORE SELECTED WORK ON MY PORTFOLIO ↗</a></p>
+<p align="right"><a href="https://hiyaapatell.com">EXPLORE MY DESIGN PORTFOLIO ↗</a></p>
 
 <br/>
 
