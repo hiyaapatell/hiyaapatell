@@ -77,8 +77,6 @@ CityPulse is a responsive city discovery web app that helps users discover local
 </tr>
 </table>
 
-<p align="right"><a href="https://hiyaapatell.com">EXPLORE MY DESIGN PORTFOLIO ↗</a></p>
-
 <br/>
 
 ## 🔴 03 / HOW I WORK — THE DESIGN LAPS
