@@ -28,71 +28,80 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 
 <table width="100%">
 <tr>
-<td width="33.33%" valign="top">
+<td width="33%" height="130" align="left" valign="top">
 
-**[📦 Paquet](https://hiyaapatell.com)**
+<strong><a href="https://hiyaapatell.com">📦 Paquet</a></strong>
 
-<sub>AR packaging · Product Design</sub>
-
-</td>
-<td width="33.33%" valign="top">
-
-**[🎓 MassArt Service Design](https://hiyaapatell.com)**
-
-<sub>Student journey · Service Design</sub>
+<br/><br/>
+<sub>AR Packaging · Product Design</sub>
 
 </td>
-<td width="33.33%" valign="top">
+<td width="33%" height="130" align="left" valign="top">
 
-**[🏙️ Hidden Boston](https://hiyaapatell.com/#project/hiddenboston)**
+<strong><a href="https://hiyaapatell.com">🎓 MassArt Service Design</a></strong>
 
-<sub>City discovery · UI/UX</sub>
-
-</td>
-</tr>
-<tr>
-<td width="33.33%" valign="top">
-
-**[🐆 Le Panthère](https://hiyaapatell.com)**
-
-<sub>Website redesign · UX</sub>
+<br/><br/>
+<sub>Student Journey · Service Design</sub>
 
 </td>
-<td width="33.33%" valign="top">
+<td width="33%" height="130" align="left" valign="top">
 
-**[🎨 Synesthesia](https://hiyaapatell.com)**
+<strong><a href="https://hiyaapatell.com/#project/hiddenboston">🏙️ Hidden Boston</a></strong>
 
-<sub>Collaborative creativity · App Design</sub>
-
-</td>
-<td width="33.33%" valign="top">
-
-**[📐 Angle App](https://hiyaapatell.com)**
-
-<sub>Shopping experience · UI/UX</sub>
+<br/><br/>
+<sub>City Discovery · UI/UX</sub>
 
 </td>
 </tr>
 <tr>
-<td width="33.33%" valign="top">
+<td width="33%" height="130" align="left" valign="top">
 
-**[🏎️ Portfolio Website](https://github.com/hiyaapatell/hiyapatel.portfolio)**
+<strong><a href="https://hiyaapatell.com">🐆 Le Panthère</a></strong>
 
-<sub>F1-inspired digital portfolio</sub>
-
-</td>
-<td width="33.33%" valign="top">
-
-**[🗺️ BETWEEN.NYC](https://github.com/hiyaapatell/between.nyc)**
-
-<sub>Interactive NYC exploration</sub>
+<br/><br/>
+<sub>Website Redesign · UX</sub>
 
 </td>
-<td width="33.33%" valign="top">
+<td width="33%" height="130" align="left" valign="top">
 
-**[🌆 CityPulse](https://github.com/hiyaapatell/citypulse)**
+<strong><a href="https://hiyaapatell.com">🎨 Synesthesia</a></strong>
 
-<sub>Local discovery web app</sub>
+<br/><br/>
+<sub>Creativity App · UI/UX</sub>
+
+</td>
+<td width="33%" height="130" align="left" valign="top">
+
+<strong><a href="https://hiyaapatell.com">📐 Angle App</a></strong>
+
+<br/><br/>
+<sub>Shopping Experience · UI/UX</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" height="130" align="left" valign="top">
+
+<strong><a href="https://github.com/hiyaapatell/hiyapatel.portfolio">🏎️ Portfolio Website</a></strong>
+
+<br/><br/>
+<sub>F1-Inspired Portfolio</sub>
+
+</td>
+<td width="33%" height="130" align="left" valign="top">
+
+<strong><a href="https://github.com/hiyaapatell/between.nyc">🗺️ BETWEEN.NYC</a></strong>
+
+<br/><br/>
+<sub>Interactive NYC Exploration</sub>
+
+</td>
+<td width="33%" height="130" align="left" valign="top">
+
+<strong><a href="https://github.com/hiyaapatell/citypulse">🌆 CityPulse</a></strong>
+
+<br/><br/>
+<sub>City Discovery Web App</sub>
 
 </td>
 </tr>
