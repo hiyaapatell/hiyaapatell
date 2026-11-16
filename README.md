@@ -28,50 +28,71 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏎️ [hiyapatel.portfolio](https://github.com/hiyaapatell/hiyapatel.portfolio)
+**[📦 Paquet](https://hiyaapatell.com)**
 
-F1 theme portfolio website
-
-<sub>JavaScript</sub>
-
-[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/hiyapatel.portfolio)
+<sub>AR packaging · Product Design</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏙️ [hiddenboston](https://github.com/hiyaapatell/hiddenboston)
+**[🎓 MassArt Service Design](https://hiyaapatell.com)**
 
-Discover Boston's hidden gems through an interactive website.
+<sub>Student journey · Service Design</sub>
 
-<sub>HTML</sub>
+</td>
+<td width="33%" valign="top">
 
-[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/hiddenboston)
+**[🏙️ Hidden Boston](https://hiyaapatell.com/#project/hiddenboston)**
+
+<sub>City discovery · UI/UX</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🗺️ [between.nyc](https://github.com/hiyaapatell/between.nyc)
+**[🐆 Le Panthère](https://hiyaapatell.com)**
 
-An interactive NYC exploration website featuring colorful maps, walking routes, and hidden discoveries that reveal the stories, architecture, and overlooked details between destinations.
-
-<sub>HTML</sub>
-
-[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/between.nyc)
+<sub>Website redesign · UX</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌆 [citypulse](https://github.com/hiyaapatell/citypulse)
+**[🎨 Synesthesia](https://hiyaapatell.com)**
 
-CityPulse is a responsive city discovery web app that helps users discover local events, places, activities, and city experiences in one simple interface.
+<sub>Collaborative creativity · App Design</sub>
 
-<sub>HTML</sub>
+</td>
+<td width="33%" valign="top">
 
-[**VIEW REPOSITORY ↗**](https://github.com/hiyaapatell/citypulse)
+**[📐 Angle App](https://hiyaapatell.com)**
+
+<sub>Shopping experience · UI/UX</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**[🏎️ Portfolio Website](https://github.com/hiyaapatell/hiyapatel.portfolio)**
+
+<sub>F1-inspired digital portfolio</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[🗺️ BETWEEN.NYC](https://github.com/hiyaapatell/between.nyc)**
+
+<sub>Interactive NYC exploration</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[🌆 CityPulse](https://github.com/hiyaapatell/citypulse)**
+
+<sub>Local discovery web app</sub>
 
 </td>
 </tr>
