@@ -26,31 +26,31 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 
 ## 🏁 02 / ON THE GRID — SELECTED WORK
 
-<table width="100%">
+<table width="990">
 <tr>
-<td width="33%" valign="top">
+<td width="330" valign="top">
 <a href="https://hiyaapatell.com/#project/paquet"><strong>📦 Paquet</strong></a><br/>
 <sub>AR · Product Design</sub>
 </td>
-<td width="33%" valign="top">
+<td width="330" valign="top">
 <a href="https://hiyaapatell.com/#project/massart"><strong>🎓 MassArt</strong></a><br/>
 <sub>Service Design · UX Research</sub>
 </td>
-<td width="33%" valign="top">
+<td width="330" valign="top">
 <a href="https://hiyaapatell.com/#project/hiddenboston"><strong>🏙️ Hidden Boston</strong></a><br/>
 <sub>UI/UX · Development</sub>
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="330" valign="top">
 <a href="https://hiyaapatell.com/#project/lepanthere"><strong>🐆 Le Panthère</strong></a><br/>
 <sub>Website Redesign · UI/UX</sub>
 </td>
-<td width="33%" valign="top">
+<td width="330" valign="top">
 <a href="https://hiyaapatell.com/#project/synesthesia"><strong>🎨 Synesthesia</strong></a><br/>
 <sub>Creative Tools · Interaction</sub>
 </td>
-<td width="33%" valign="top">
+<td width="330" valign="top">
 <a href="https://hiyaapatell.com"><strong>💻 Portfolio Website</strong></a><br/>
 <sub>UI/UX · Development</sub>
 </td>
