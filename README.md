@@ -112,34 +112,27 @@ I’m interested in the moments where *user needs*, *systems*, and *emerging tec
 
 <br/>
 
-## 🛠️ 04 / THE TOOLKIT
+## 💻 04 / THE TOOLKIT
 
-**Design & prototyping**
+### Design & Prototyping
 
-![Figma](https://img.shields.io/badge/Figma-242933?style=flat-square&logo=figma&logoColor=F24E1E)
-![FigJam](https://img.shields.io/badge/FigJam-242933?style=flat-square&logo=figma&logoColor=F24E1E)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-242933?style=flat-square&logo=adobecreativecloud&logoColor=FF0000)
-![Framer](https://img.shields.io/badge/Framer-242933?style=flat-square&logo=framer&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-242933?style=flat-square&logo=canva&logoColor=00C4CC)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![FigJam](https://img.shields.io/badge/FigJam-7651D4?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-161616?style=for-the-badge&logo=framer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-**Development & productivity**
+### Development & Productivity
 
-![HTML](https://img.shields.io/badge/HTML-242933?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-242933?style=flat-square&logo=css&logoColor=1572B6)
-![Python](https://img.shields.io/badge/Python-242933?style=flat-square&logo=python&logoColor=3776AB)
-![Notion](https://img.shields.io/badge/Notion-242933?style=flat-square&logo=notion&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-161616?style=for-the-badge&logo=notion&logoColor=white)
 
-**Design skills**
+### Product & UX Design
 
-`Product Design` · `UI/UX` · `Interaction Design` · `Responsive Design` · `Information Architecture` · `User Flows` · `Wireframing` · `Prototyping` · `Design Systems`
+![Product Design](https://img.shields.io/badge/Product_Design-C5342D?style=for-the-badge&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI/UX-5B46C4?style=for-the-badge&logoColor=white) ![Interaction Design](https://img.shields.io/badge/Interaction_Design-177E89?style=for-the-badge&logoColor=white) ![Responsive Design](https://img.shields.io/badge/Responsive_Design-315C9B?style=for-the-badge&logoColor=white) ![Information Architecture](https://img.shields.io/badge/Information_Architecture-7553A2?style=for-the-badge&logoColor=white) ![User Flows](https://img.shields.io/badge/User_Flows-C27824?style=for-the-badge&logoColor=white) ![Wireframing](https://img.shields.io/badge/Wireframing-5865A0?style=for-the-badge&logoColor=white) ![Prototyping](https://img.shields.io/badge/Prototyping-C34B64?style=for-the-badge&logoColor=white) ![Design Systems](https://img.shields.io/badge/Design_Systems-3A7966?style=for-the-badge&logoColor=white)
 
-**Research methods**
+### Research & Strategy
 
-`User Interviews` · `Usability Testing` · `Competitive Analysis` · `Journey Mapping` · `Persona Development`
+![User Interviews](https://img.shields.io/badge/User_Interviews-217C82?style=for-the-badge&logoColor=white) ![Usability Testing](https://img.shields.io/badge/Usability_Testing-A4538B?style=for-the-badge&logoColor=white) ![Competitive Analysis](https://img.shields.io/badge/Competitive_Analysis-476C9B?style=for-the-badge&logoColor=white) ![Journey Mapping](https://img.shields.io/badge/Journey_Mapping-B36D2A?style=for-the-badge&logoColor=white) ![Persona Development](https://img.shields.io/badge/Persona_Development-5D729A?style=for-the-badge&logoColor=white)
 
-**Currently exploring**
+### Currently Exploring
 
-`AI + Human Behavior` · `Context-Aware Experiences` · `Creative Technology` · `Digital Memory`
+![AI + Human Behavior](https://img.shields.io/badge/AI_+_Human_Behavior-9B2D30?style=for-the-badge&logoColor=white) ![Context Aware Experiences](https://img.shields.io/badge/Context_Aware_Experiences-315E8A?style=for-the-badge&logoColor=white) ![Creative Technology](https://img.shields.io/badge/Creative_Technology-7D3C98?style=for-the-badge&logoColor=white) ![Digital Memory](https://img.shields.io/badge/Digital_Memory-326B5B?style=for-the-badge&logoColor=white)
 
 <br/>
 
