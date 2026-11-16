@@ -26,23 +26,23 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 
 ## 🏁 02 / ON THE GRID — SELECTED WORK
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 **[📦 Paquet](https://hiyaapatell.com)**
 
 <sub>AR packaging · Product Design</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 **[🎓 MassArt Service Design](https://hiyaapatell.com)**
 
 <sub>Student journey · Service Design</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 **[🏙️ Hidden Boston](https://hiyaapatell.com/#project/hiddenboston)**
 
@@ -51,21 +51,21 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 **[🐆 Le Panthère](https://hiyaapatell.com)**
 
 <sub>Website redesign · UX</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 **[🎨 Synesthesia](https://hiyaapatell.com)**
 
 <sub>Collaborative creativity · App Design</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 **[📐 Angle App](https://hiyaapatell.com)**
 
@@ -74,21 +74,21 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 **[🏎️ Portfolio Website](https://github.com/hiyaapatell/hiyapatel.portfolio)**
 
 <sub>F1-inspired digital portfolio</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 **[🗺️ BETWEEN.NYC](https://github.com/hiyaapatell/between.nyc)**
 
 <sub>Interactive NYC exploration</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 **[🌆 CityPulse](https://github.com/hiyaapatell/citypulse)**
 
