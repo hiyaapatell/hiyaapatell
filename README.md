@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hiyaapatell.com)
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-242933?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiya-patel/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-242933?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiya-patel-b4276925b/)
 [![Projects](https://img.shields.io/badge/VIEW_PROJECTS-F2E8D5?style=for-the-badge&logo=github&logoColor=151515)](https://github.com/hiyaapatell?tab=repositories)
 
 </div>
@@ -132,7 +132,7 @@ I’m interested in the moments where *user needs*, *systems*, and *emerging tec
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hiyaapatell.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-242933?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiyaapatell)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-242933?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiya-patel/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-242933?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiya-patel-b4276925b/)
 
 <br/>
 
