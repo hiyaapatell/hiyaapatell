@@ -37,7 +37,7 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 <sub>Service Design · UX Research</sub>
 </td>
 <td width="330" valign="top">
-<a href="https://hiyaapatell.com/#project/hiddenboston"><strong>🏙️ Hidden Boston</strong></a><br/>
+<a href="https://hiyaapatell.github.io/hiddenboston/"><strong>🏙️ Hidden Boston</strong></a><br/>
 <sub>UI/UX · Development</sub>
 </td>
 </tr>
@@ -57,15 +57,15 @@ I enjoy turning messy, complex problems into experiences that feel intuitive, us
 </tr>
 <tr>
 <td width="330" valign="top">
-<a href="https://github.com/hiyaapatell/between.nyc"><strong>🗺️ BETWEEN.NYC</strong></a><br/>
+<a href="https://hiyaapatell.github.io/between.nyc/"><strong>🗺️ BETWEEN.NYC</strong></a><br/>
 <sub>Interactive NYC Exploration</sub>
 </td>
 <td width="330" valign="top">
-<a href="https://github.com/hiyaapatell/citypulse"><strong>🌆 CityPulse</strong></a><br/>
+<a href="https://hiyaapatell.github.io/citypulse/"><strong>🌆 CityPulse</strong></a><br/>
 <sub>City Discovery · Web App</sub>
 </td>
 <td width="330" valign="top">
-<a href="https://github.com/hiyaapatell/studyflow"><strong>📚 StudyFlow</strong></a><br/>
+<a href="https://hiyaapatell.github.io/studyflow/"><strong>📚 StudyFlow</strong></a><br/>
 <sub>Study Dashboard · Focus Timer</sub>
 </td>
 </tr>
