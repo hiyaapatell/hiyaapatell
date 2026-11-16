@@ -16,7 +16,7 @@
 
 I’m **Hiya**, a product and UI/UX designer who believes good design starts with a better question.
 
-I’m pursuing my **Master of Design in Design Innovation at Massachusetts College of Art and Design (MassArt)**, exploring the space where human behavior, technology, and meaningful experiences meet.
+I’m pursuing my **MDes in Design Innovation at MassArt & MAS/STS at MIT**, exploring the space where human behavior, technology, meaningful experiences meet.
 
 I enjoy turning messy, complex problems into experiences that feel intuitive, useful, and a little unexpected. From research and systems thinking to prototypes and interactive websites, I care about **why** something should exist just as much as **how** it works.
 
